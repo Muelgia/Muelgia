@@ -22,7 +22,7 @@ Possuo experiência em projetos que envolvem Análise, filtragem e mapeamento de
 
  ##
  
-<div>
+<div style="text-align: center;">
   <a href="https://www.linkedin.com/in/samuelcarlosgarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "amailto:samuelcarlosgia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="amailto:samuelcarlosgia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
