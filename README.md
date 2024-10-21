@@ -2,7 +2,7 @@
 
 Sou Samuel, Programador Jr e Estudante!
 
-/*<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Muel" height="30" width="40" src="ahttps://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Muel" height="30" width="40" src="ahttps://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Muel" height="30" width="40" src="ahttps://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
