@@ -17,7 +17,7 @@ Possuo experiência em projetos que envolvem Análise, filtragem e mapeamento de
   <img align="center" alt="Muel-Selenium" height="30" width="30" src="Icons/selenium.svg">
   <img align="center" alt="Muel-Arduino" height="30" width="30" src="Icons/arduino.svg">
   <img align="center" alt="Muel-Excel" height="30" width="30" src="Icons/excel.svg">
-  <a href="https://github.com/Muelgia/Arduino><img align="center" alt="Muel-PowerBI" height="30" width="30" src="Icons/Power-bi.svg"></a>
+  <a href="https://github.com/Muelgia/Arduino"><img align="center" alt="Muel-PowerBI" height="30" width="30" src="Icons/Power-bi.svg"></a>
 </div>
 
  ##
