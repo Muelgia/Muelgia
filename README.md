@@ -14,6 +14,8 @@ Sou Samuel, Programador Jr e Estudante!
   <img align="center" alt="Muel-Excel" height="40" width="40" src="Icons/excel.svg">
   <img align="center" alt="Muel-PowerBI" height="40" width="40" src="Icons/Power-bi.svg">
 </div>
+
+
  
 <div>
   <a href="https://www.linkedin.com/in/samuelcarlosgarcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
