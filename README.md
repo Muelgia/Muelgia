@@ -11,6 +11,8 @@ Sou Samuel, Programador Jr e Estudante!
   <img align="center" alt="Muel-SQL" height="40" width="40" src="Icons/sql-server.svg">
   <img align="center" alt="Muel-Selenium" height="40" width="40" src="Icons/selenium.svg">
   <img align="center" alt="Muel-Arduino" height="40" width="40" src="Icons/arduino.svg">
+  <img align="center" alt="Muel-Excel" height="40" width="40" src="Icons/excel.svg">
+  <img align="center" alt="Muel-PowerBI" height="40" width="40" src="Icons/Power-bi.svg">
 </div>
  
 <div> 
